@@ -1,0 +1,42 @@
+
+Pasos para ver un partido de futbol en el estadio ( Problematica : comprar boletos )
+
++ Comprar boletos ( suponiendo estar en la puerta ) :
+
+    1 - Tengo Dinero ?  =>  Si | No
+    2 - Me dirijo A la Taquilleria
+    3 - Hay Fila ?  =>  Si | No
+    4 - Espero mi turno
+    5 - Hay Stock de Sillas ?  =>  Si | No
+    6 - Pregunto Precios
+    7 - Me Alcanza  =>  Si | No
+    8 - Pago 
+    9 - voy al estadio
+
+
++ Ir al estadio
+
+    1 - Me dirijo a la entrada
+    2 - Hay Fila ?  =>  Si | No
+    3 - Muestro mi boleta
+    4 - Busco mi silla asignada
+    5 - Disfruto del Partido 😎
+
+
+
+Pasos para preparar una taza de tea 
+
+    1 - Reuno los ingredientes necesarios : tetera, taza, agua, 
+        bolsitas de tea, leche, azucar
+    2 - Tengo Todos los ingredientes ?  =>  Si | No
+    3 - Llenar la tetera segun la cantidad de tea que se haga
+    3 - Enciendo la estufa
+    4 - Pongo la tetera en la estufa
+    5 - Esta Caliente el agua ?  =>  Si | No
+    6 - Colocar la bolsita de tea en tu taza/vaso 
+    7 - Hechar el agua caliente en la taza/vaso
+    8 - Esta el tea concentrado en el agua ?  =>  Si | No
+    9 - Sacar la bolsita de tea
+    10 - Agregar Leche y Azúcar si se quiere
+    11 - Tomar una rica taza de tea 😎 
+    
