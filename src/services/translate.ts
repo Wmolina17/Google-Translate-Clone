@@ -4,7 +4,7 @@ import OpenAIApi from 'openai';
 import { FromLanguaje, Languaje } from '../types.d';
 import { SUPPORTED_LANGUAGES } from '../constants';
 
-const apiKey = "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"
+const apiKey = ""
 
 const configuration = new Configuration({
     apiKey: apiKey,
